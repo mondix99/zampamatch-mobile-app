@@ -1,6 +1,6 @@
 # 🐾 ZampaMatch
 
-<img width="1536" height="1024" alt="educationalcomics" src="https://github.com/user-attachments/assets/3c9e14ba-ce18-45ea-b225-51cf90c337a8" />
+<img width="1536" height="1024" alt="image_original" src="https://github.com/user-attachments/assets/f6695dc7-9f69-4850-8530-a02ff3511891" />
 
 **ZampaMatch** is an iOS/iPadOS mobile application developed as my final project for the IFTS Application Development course.
 
